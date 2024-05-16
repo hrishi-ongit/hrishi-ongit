@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hrishi-ongit
-- 👀 I’m interested in coding amd a keen learner
+- 👀 I’m interested in coding and a keen learner
 - 🌱 I’m currently learning Javascript, Angular, NodeJS
 - 💞️ I’m looking to collaborate on ...Front end web app projects
 - 📫 How to reach me ...Linked in: hrisikesh_kannikar,Insta: hrishikesh_kannikar
